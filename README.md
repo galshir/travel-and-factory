@@ -21,8 +21,6 @@ The "Deploy" button allows you to save the translations in JSON format to a serv
 ### The next screen allows you to: ###
 Add translation keys for a selected app.
 
-### You have 4 hours to complete this project. ###
-
 ### When the project is finished, please commit it to the Bitbucket account. ###
 
 ![Logo](
