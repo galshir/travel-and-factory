@@ -1,25 +1,61 @@
-#TRAVELFACTORY - Translator APPLICATION#
+# 🌍 Translation Management System – Full Stack React Test
+@ Created By Bar  
 
-Welcome to our test! 
-The goal of this test is to create an application to manage our translations.
+Welcome to my technical test project!  
+This repository contains a **full-stack translation management system** built with **React (frontend)** and **C# (backend)**.
 
-### Please note, you need to create a C# server (a database is optional). This test is full-stack (front end (HTML, CSS, JS) and back end).
+The purpose of this project is to demonstrate **frontend architecture, backend API design, UX thinking, and scalable system design**.
 
-## Context ##
-At TravelFactory, we have many applications that each need to have a translation for every element of their interface. For this purpose, we use translation files in JSON format. However, this format is not practical for business teams. Additionally, deploying the translations to production requires a developer to check and copy the file to the server.
+---
 
-To resolve this problem, the project manager and the business teams decided to create a centralized application to manage all the translations made on the user interfaces. This interface must allow users to enter, download, and deploy application translations.
+## 🎯 Project Overview
 
-This application consists of two screens.
+In many production systems, translations are stored as **JSON files**.  
+While this format is convenient for developers, it is **not user-friendly for business teams** and often **slows down deployment**.
 
-### The first screen allows you to: ###
-View the list of existing applications.
-Add an application: a popup is displayed to enter the name of the application.
-Clicking on the "Download XLSX" button will download an Excel file containing all the translations for the application.
-The "Deploy" button allows you to save the translations in JSON format to a server directory containing the name of the app, for example, "/translator/app1.json".
+This project solves this problem by introducing a **centralized translation management application** that allows:
 
-### The next screen allows you to: ###
-Add translation keys for a selected app.
+- Business teams to manage translations easily.
+- Developers to deploy translations instantly.
+- Centralized control of translations across multiple applications.
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+### Backend
+- C# (ASP.NET Core Web API)
+
+### Optional
+- Database (SQL / NoSQL / In-memory)
+- File-based storage for JSON
+
+---
+
+## 📱 Application Screens
+
+The system consists of **two main screens**:
+
+---
+
+### 1️⃣ Applications Management Screen
+
+Manage all registered applications and their translations.
+
+#### Features:
+- Display all existing applications.
+- Add a new application using a popup/modal.
+- Download all translations as **Excel (.xlsx)**.
+- Deploy translations as **JSON files** to the server.
+
+#### Deployment Path:
+
 
 ### When the project is finished, please commit it to the Bitbucket account. ###
 
