@@ -54,13 +54,8 @@ Manage all registered applications and their translations.
 - Download all translations as **Excel (.xlsx)**.
 - Deploy translations as **JSON files** to the server.
 
-#### Deployment Path:
+### Screens
 
+![Applications management screen](https://bytebucket.org/labtravelfactory/workspace/snippets/BzgzR5/raw/21436a2a880db2b97089e509c16e5dced95c1460/translatorScreen1.jpg)
 
-### When the project is finished, please commit it to the Bitbucket account. ###
-
-![Logo](
-https://bytebucket.org/labtravelfactory/workspace/snippets/BzgzR5/raw/21436a2a880db2b97089e509c16e5dced95c1460/translatorScreen1.jpg)
-
-![Logo](
-https://bytebucket.org/labtravelfactory/workspace/snippets/BzgzR5/raw/5509bf0dc83a8308d022d8845ba243c075f2f3ee/translatorScreen2.jpg)
+![Translations editing screen](https://bytebucket.org/labtravelfactory/workspace/snippets/BzgzR5/raw/5509bf0dc83a8308d022d8845ba243c075f2f3ee/translatorScreen2.jpg)
